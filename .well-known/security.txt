@@ -1,0 +1,11 @@
+# Hedwig — security.txt (RFC 9116)
+# Een kwetsbaarheid in de app Hedwig of in deze website melden? Mail ons; wij reageren
+# binnen vijf werkdagen en noemen u, als u dat wilt, in de versiegeschiedenis.
+# Found a security issue in the Hedwig app or this site? Mail us; we reply within five
+# working days and credit you in the release notes if you wish.
+Contact: mailto:security@hedwig-app.nl
+Contact: mailto:support@hedwig-app.nl
+Expires: 2027-10-31T00:00:00.000Z
+Preferred-Languages: nl, en
+Canonical: https://hedwig-app.nl/.well-known/security.txt
+Policy: https://hedwig-app.nl/privacy.html
